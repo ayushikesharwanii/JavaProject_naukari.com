@@ -1,0 +1,22 @@
+SMAP
+addjobs_jsp.java
+JSP
+*S JSP
+*F
++ 0 addjobs.jsp
+admin/addjobs.jsp
++ 1 adminlink.jsp
+admin/../master/adminlink.jsp
++ 2 adminheader.jsp
+admin/../master/adminheader.jsp
++ 3 adminfooter.jsp
+admin/../master/adminfooter.jsp
+*L
+5,7:51
+5#1,11:58
+11#0,40:69
+5#2,66:109
+50#0,78:175
+5#3,9:253
+127#0,7:262
+*E

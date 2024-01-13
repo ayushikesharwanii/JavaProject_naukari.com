@@ -1,0 +1,28 @@
+SMAP
+Addcategary_jsp.java
+JSP
+*S JSP
+*F
++ 0 Addcategary.jsp
+admin/Addcategary.jsp
++ 1 adminlink.jsp
+admin/../master/adminlink.jsp
++ 2 adminheader.jsp
+admin/../master/adminheader.jsp
++ 3 adminfooter.jsp
+admin/../master/adminfooter.jsp
+*L
+5,9:53
+5#1,11:62
+13#0,31:73
+5#2,52:104
+43#0,25:156
+68,7:182
+74,2:189
+76,4:191,3
+80,2:203
+82,4:206
+85,7:210
+5#3,9:217
+91#0,6:226
+*E

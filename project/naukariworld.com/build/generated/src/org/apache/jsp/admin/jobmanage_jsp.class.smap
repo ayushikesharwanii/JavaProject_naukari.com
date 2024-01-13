@@ -1,0 +1,28 @@
+SMAP
+jobmanage_jsp.java
+JSP
+*S JSP
+*F
++ 0 jobmanage.jsp
+admin/jobmanage.jsp
++ 1 adminlink.jsp
+admin/../master/adminlink.jsp
++ 2 adminheader.jsp
+admin/../master/adminheader.jsp
++ 3 adminfooter.jsp
+admin/../master/adminfooter.jsp
+*L
+5,13:53
+5#1,11:66
+17#0,21:77
+5#2,66:98
+37#0,31:164
+68,7:196
+74,2:203
+76,14:205,3
+90,2:247
+92,4:250
+95,5:254
+5#3,9:259
+99#0,6:268
+*E

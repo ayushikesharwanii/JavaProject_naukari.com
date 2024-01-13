@@ -1,0 +1,30 @@
+SMAP
+campanies_jsp.java
+JSP
+*S JSP
+*F
++ 0 campanies.jsp
+campanies.jsp
++ 1 link.jsp
+master/link.jsp
++ 2 header.jsp
+master/header.jsp
++ 3 footer.jsp
+master/footer.jsp
+*L
+5,9:53
+5#1,17:62
+13#0,35:79
+5#2,57:114
+47#0,6:171
+53,5:178
+57,4:183
+62,5:189
+66,2:194
+68,4:196,3
+72,6:208
+78,3:215
+80,4:218
+5#3,48:222
+83#0,73:270
+*E
